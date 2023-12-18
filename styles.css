@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th{
+	text-align:left;
+	background-color:brown;
+	color:white;
+}
+.size{
+	text-align:right;
+}
+.firstrow{
+	background-color: #da9694;
+	color:white;
+}
+.secondrow{
+	background-color: #f2dcdb;
+	color:black;
+}
+.thirdrow{
+	background-color: #d9d9d9;
+	color:black;
+}
+
+
